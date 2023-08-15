@@ -17,11 +17,11 @@ int n = 48;
 
 while (n <= 57)
 {
-int m = n + 1;
+int m = 48;
 
 while (m <= 57)
 {
-int r = 48;
+int r = m + 1;
 
 while (r <= 57)
 {
