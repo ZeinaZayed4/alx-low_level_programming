@@ -21,7 +21,7 @@ int m = 48;
 
 while (m <= 57)
 {
-int r = m + 1;
+int r = 48;
 
 while (r <= 57)
 {
